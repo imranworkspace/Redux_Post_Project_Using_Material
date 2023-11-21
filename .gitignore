@@ -21,3 +21,17 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# myfiles
+/src/App.css
+/src/App.test.css
+/src/index.css
+/src/logo.svg
+/src/reqportWebVitals.js
+/src/setupTests.js
+
+/public/favicon.ico
+/public/logo192.png
+/public/logo512.png
+/public/manifest.json
+/public/robots.txt
